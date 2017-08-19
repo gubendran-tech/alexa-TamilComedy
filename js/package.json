@@ -1,0 +1,23 @@
+{
+  "name": "tamilComedy",
+  "version": "1.0.0",
+  "description": "An Tamil Comedy .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "tamil comedy"
+  ],
+  "author": "Gubendran Lakshmanan",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "alexa-sdk": "^1.0.4"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/alexa/skill-sample-nodejs-audio-player"
+  }
+}
